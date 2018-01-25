@@ -1,0 +1,26 @@
+{
+  "endpoints":[
+    {"activities":{"subendpoints":[]}},
+    {"applications":{"subendpoints":[]}},
+    {"awards":{"subendpoints":[]}},
+    {"classification-schemes":{"subendpoints":[]}},
+    {"concepts":{"subendpoints":[]}},
+    {"curricula-vitae":{"subendpoints":[]}},
+    {"datasets":{"subendpoints":[]}},
+    {"equipment":{"subendpoints":[]}},
+    {"events":{"subendpoints":[]}},
+    {"external-persons":{"subendpoints":[]}},
+    {"fingerprints":{"subendpoints":[]}},
+    {"journals":{"subendpoints":[]}},
+    {"organisational-units":{"subendpoints":[]}},
+    {"persons":{"subendpoints":[]}},
+    {"press-media":{"subendpoints":[]}},
+    {"prizes":{"subendpoints":[]}},
+    {"projects":{"subendpoints":[]}},
+    {"publishers":{"subendpoints":[]}},
+    {"research-outputs":{"subendpoints":[]}},
+    {"semantic-groups":{"subendpoints":[]}},
+    {"thesauri":{"subendpoints":[]}}
+
+  ]
+}
